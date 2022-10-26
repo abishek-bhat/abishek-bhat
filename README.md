@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishek Bhat</h1>
 <h3 align="center">Analyzing every thing, every day around me !!</h3>
+![gif](https://user-images.githubusercontent.com/60037478/197964018-4e86e2e6-e049-4494-85c5-a3f6cc329064.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek-bhat&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-bhat" /> </p>
 
