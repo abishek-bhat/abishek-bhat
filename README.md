@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abishekbhat31@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/abishek-bhat/My_Resume/blob/main/Abishek-Resume.pdf](https://github.com/abishek-bhat/My_Resume/blob/main/Abishek-Resume.pdf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abishek31/](https://www.linkedin.com/in/abishek31/)
 
 - ⚡ Fun fact **I interpret everything as DATA.**
 
