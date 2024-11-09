@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on [Complete disease prediction](https://github.com/abishek-bhat/complete_disease_prediction)
+- 👯 I’m looking to collaborate on Fintech Related Prjects/application development.
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
