@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek-bhat&label=Profile%20views&color=0e75b6&style=flat" alt="abishek-bhat" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Blockchain, Cryptocurrency and Tokenization**
 
 - 👯 I’m looking to collaborate on Fintech Related Projects/application development.
 
-- 🤝 I’m looking for help with **Artificial Intelligence**
+- 🤝 I’m looking for help with **Artificial Intelligence!**
 
 - 👨‍💻 All of my projects are available at [https://abishek-bhat.github.io/abishek_bhat.github.io/](https://abishek-bhat.github.io/abishek_bhat.github.io/)
 
